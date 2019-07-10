@@ -1,5 +1,5 @@
 # ATB-Datathon
-This repo consists of my first hackathon project. 
+This repo consists of my first datathon project. 
 
 My team was tasked to use public data to improve Canadian agriculture. We figured that we should focus on solving Canada's most pertinent issue with agriculture: crop diseases. In Alberta alone, crop diseases amount to millions in dollars of lost productivity. There needs to be a solution.
 
